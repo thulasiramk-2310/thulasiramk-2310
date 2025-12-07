@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thulasiramk-2310&label=PROFILE+VIEWS&color=black&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thulasiramk-2310&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
 </p>
+
 ###
 
 <div align="center">
