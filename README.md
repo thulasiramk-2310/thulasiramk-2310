@@ -7,13 +7,13 @@ Building modern, fast, and real-world software experiences.<br>
 Always learning. Always building.</strong>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif" style="filter: hue-rotate(200deg);" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif" style="filter: hue-rotate(200deg);" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
 ### 💡 About Me
 
@@ -24,7 +24,7 @@ Always learning. Always building.</strong>
 
 
 <!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="10000" alt="cool animation gif" style="filter: hue-rotate(200deg);" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Language & Tools
@@ -137,8 +137,7 @@ Always learning. Always building.</strong>
 
 
 <!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif" style="filter: hue-rotate(200deg);" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
 ### 📊 GitHub Insights
 
@@ -158,7 +157,7 @@ Always learning. Always building.</strong>
 
 
 <!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif" style="filter: hue-rotate(200deg);" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
 ### 🏆 ACHIEVEMENTS
 
@@ -169,11 +168,11 @@ Always learning. Always building.</strong>
 </div>
 
 <!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif" style="filter: hue-rotate(200deg);" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
 ### 🔗 Links
 <p align="center"> <a href="https://thulasiramk-2310.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>  <a href="https://www.linkedin.com/in/thulasiram-k-60a864328/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 
 <!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif" style="filter: hue-rotate(200deg);" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
