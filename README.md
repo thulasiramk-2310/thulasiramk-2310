@@ -16,11 +16,10 @@ Always learning. Always building.</strong>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
 ### 💡 About Me
-
-    - Building backend systems & full-stack applications
-    - Exploring AI/ML, distributed systems, and cloud infrastructure
-    - Designing modern UI/UX and developer-focused experiences
-    - Always shipping projects and experimenting with new tech
+- Building backend systems & full-stack applications
+- Exploring AI/ML, distributed systems, and cloud infrastructure
+- Designing modern UI/UX and developer-focused experiences
+- Always shipping projects and experimenting with new tech
 
 
 <!-- Section Divider -->
