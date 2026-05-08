@@ -144,7 +144,7 @@ Always learning. Always building.</strong>
 
 <p align="center">
 
-<img height="160" src="https://streak-stats.vercel.app/?user=thulasiramk-2310 &theme=tokyonight&hide_border=true" />
+<img height="160" src="https://streak-stats.vercel.app/?user=thulasiramk-2310&theme=tokyonight&hide_border=true" />
 
 </p
 
