@@ -171,6 +171,13 @@ Always learning. Always building.</strong>
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
 
+### Projects
+- [Nizho OS](https://github.com/nizho-os): a desktop Linux with privacy settings on by default, on an immutable (bootc) base. Developer preview. Website: https://nizho-os.github.io/nizho/
+- [Archon](https://github.com/nizho-os/archon): an AUR-aware package manager for Arch Linux.
+
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000" alt="blue line divider" />
+
 ### 🔗 Links
 <p align="center"> <a href="https://thulasiramk-2310.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>  <a href="https://www.linkedin.com/in/thulasiram-k-60a864328/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
